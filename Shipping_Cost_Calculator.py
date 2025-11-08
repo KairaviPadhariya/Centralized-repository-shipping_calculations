@@ -1,5 +1,3 @@
-# Here is another update by KairaviPadhariya
-# Here is a new update by kairavipadhariya
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
